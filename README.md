@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about **JS**, **React JS**, **Node**, **Express**
 
-- 📩 How to reach me (shreeshahr9303@gmail.com)
+- 📩 How to reach me shreeshahr9303@gmail.com
 
 ## 🛠️ Technologies and Tools I use:
 
